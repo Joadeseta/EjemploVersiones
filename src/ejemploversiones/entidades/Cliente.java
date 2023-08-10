@@ -10,5 +10,5 @@ package ejemploversiones.entidades;
  * @author joadz
  */
 public class Cliente {
-    
+    private int num;
 }
